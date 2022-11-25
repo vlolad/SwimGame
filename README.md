@@ -1,2 +1,2 @@
 # SwimGame
-Simple concole (for now) game.
+Simple console (for now) game.
